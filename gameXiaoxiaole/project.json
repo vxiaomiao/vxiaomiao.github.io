@@ -1,0 +1,25 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","cocostudio"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/startScene.js",
+        "src/option.js",
+        "src/Candy.js",
+        "src/GameConfig.js",
+        "src/GameScene.js",
+        "src/GameUI.js",
+        "src/Storage.js",
+        "src/winlayer.js"
+
+    ]
+}
