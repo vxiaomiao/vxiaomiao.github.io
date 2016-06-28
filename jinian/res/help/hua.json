@@ -1,0 +1,42 @@
+{
+  "items": {
+    "count":12,
+    "item1": {
+      "t1": "res.Hua_1_png"
+    },
+    "item2": {
+      "t1": "res.Hua_2_png"
+    },
+    "item3": {
+      "t1": "res.Hua_3_png"
+    },
+    "item4": {
+      "t1": "res.Hua_4_png"
+    },
+    "item5": {
+      "t1": "res.Hua_5_png"
+    },
+    "item6": {
+      "t1": "res.Hua_6_png"
+    },
+    "item7": {
+      "t1": "res.Hua_7_png"
+    },
+    "item8": {
+      "t1": "res.Hua_8_png"
+    },
+    "item9": {
+      "t1": "res.Hua_9_png"
+    },
+    "item10": {
+      "t1": "res.Hua_10_png"
+    },
+    "item11": {
+      "t1": "res.Hua_11_png"
+    },
+    "item12": {
+      "t1": "res.Hua_12_png"
+    }
+
+  }
+}

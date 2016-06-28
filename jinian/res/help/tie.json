@@ -1,0 +1,53 @@
+{
+  "items": {
+    "count":16,
+    "item1": {
+      "t1": "res.Tie_1_png"
+    },
+    "item2": {
+      "t1": "res.Tie_2_png"
+    },
+    "item3": {
+      "t1": "res.Tie_3_png"
+    },
+    "item4": {
+      "t1": "res.Tie_4_png"
+    },
+    "item5": {
+      "t1": "res.Tie_5_png"
+    },
+    "item6": {
+      "t1": "res.Tie_6_png"
+    },
+    "item7": {
+      "t1": "res.Tie_7_png"
+    },
+    "item8": {
+      "t1": "res.Tie_8_png"
+    },
+    "item9": {
+      "t1": "res.Tie_9_png"
+    },
+    "item10": {
+      "t1": "res.Tie_10_png"
+    },
+    "item11": {
+      "t1": "res.Tie_11_png"
+    },
+    "item12": {
+      "t1": "res.Tie_12_png"
+    },
+    "item13": {
+      "t1": "res.Tie_13_png"
+    },
+    "item14": {
+      "t1": "res.Tie_14_png"
+    },
+    "item15": {
+      "t1": "res.Tie_15_png"
+    },
+    "item16": {
+      "t1": "res.Tie_16_png"
+    }
+  }
+}
