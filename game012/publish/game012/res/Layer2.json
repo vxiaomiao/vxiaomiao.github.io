@@ -1,0 +1,868 @@
+{
+  "ID": "2cc74d62-1ac4-4203-8267-00e0bf00ac88",
+  "Version": "3.10.0.0",
+  "Name": "Layer2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 18,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/xingsepinpintie_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 225.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 43,
+            "ActionTag": 1920002622,
+            "Size": {
+              "X": 800.0,
+              "Y": 450.0
+            },
+            "Name": "xingsepinpintie_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/cc.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 280.0,
+              "Y": 225.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.35,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.2075,
+              "Y": 0.5156
+            },
+            "LeftMargin": 197.0,
+            "RightMargin": 437.0,
+            "TopMargin": 109.0,
+            "BottomMargin": 109.0,
+            "Tag": 44,
+            "ActionTag": -720068867,
+            "Size": {
+              "X": 166.0,
+              "Y": 232.0
+            },
+            "Name": "cc_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 280.5883,
+              "Y": 322.13
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3507,
+              "Y": 0.7158
+            },
+            "PreSize": {
+              "X": 0.0487,
+              "Y": 0.0867
+            },
+            "LeftMargin": 261.0883,
+            "RightMargin": 499.9117,
+            "TopMargin": 108.37,
+            "BottomMargin": 302.63,
+            "Tag": 45,
+            "ActionTag": 1143073197,
+            "Size": {
+              "X": 39.0,
+              "Y": 39.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 215.6811,
+              "Y": 215.2849
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2696,
+              "Y": 0.4784
+            },
+            "PreSize": {
+              "X": 0.0487,
+              "Y": 0.0867
+            },
+            "LeftMargin": 196.1811,
+            "RightMargin": 564.8189,
+            "TopMargin": 215.2151,
+            "BottomMargin": 195.7849,
+            "Tag": 46,
+            "ActionTag": -585371543,
+            "Size": {
+              "X": 39.0,
+              "Y": 39.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 296.998,
+              "Y": 287.5738
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3712,
+              "Y": 0.6391
+            },
+            "PreSize": {
+              "X": 0.09,
+              "Y": 0.0822
+            },
+            "LeftMargin": 260.998,
+            "RightMargin": 467.002,
+            "TopMargin": 143.9262,
+            "BottomMargin": 269.0738,
+            "Tag": 48,
+            "ActionTag": -1125874395,
+            "Size": {
+              "X": 72.0,
+              "Y": 37.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.1765,
+              "Y": 207.1676
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3315,
+              "Y": 0.4604
+            },
+            "PreSize": {
+              "X": 0.1587,
+              "Y": 0.1444
+            },
+            "LeftMargin": 201.6765,
+            "RightMargin": 471.3235,
+            "TopMargin": 210.3324,
+            "BottomMargin": 174.6676,
+            "Tag": 50,
+            "ActionTag": 284970043,
+            "Size": {
+              "X": 127.0,
+              "Y": 65.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c7.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 317.0559,
+              "Y": 148.8193
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3963,
+              "Y": 0.3307
+            },
+            "PreSize": {
+              "X": 0.0525,
+              "Y": 0.18
+            },
+            "LeftMargin": 296.0559,
+            "RightMargin": 461.9441,
+            "TopMargin": 260.6807,
+            "BottomMargin": 108.3193,
+            "Tag": 51,
+            "ActionTag": -1887044457,
+            "Size": {
+              "X": 42.0,
+              "Y": 81.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 315.4091,
+              "Y": 323.0416
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3943,
+              "Y": 0.7179
+            },
+            "PreSize": {
+              "X": 0.0475,
+              "Y": 0.0844
+            },
+            "LeftMargin": 296.4091,
+            "RightMargin": 465.5909,
+            "TopMargin": 107.9584,
+            "BottomMargin": 304.0416,
+            "Tag": 52,
+            "ActionTag": -576973021,
+            "Size": {
+              "X": 38.0,
+              "Y": 38.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 347.1419,
+              "Y": 172.6117
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4339,
+              "Y": 0.3836
+            },
+            "PreSize": {
+              "X": 0.04,
+              "Y": 0.0711
+            },
+            "LeftMargin": 331.1419,
+            "RightMargin": 436.8581,
+            "TopMargin": 261.3883,
+            "BottomMargin": 156.6117,
+            "Tag": 47,
+            "ActionTag": -886191990,
+            "Size": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipX": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 229.4449,
+              "Y": 264.8697
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2868,
+              "Y": 0.5886
+            },
+            "PreSize": {
+              "X": 0.0675,
+              "Y": 0.12
+            },
+            "LeftMargin": 202.4449,
+            "RightMargin": 543.5551,
+            "TopMargin": 158.1303,
+            "BottomMargin": 237.8697,
+            "Tag": 49,
+            "ActionTag": 1110462243,
+            "Size": {
+              "X": 54.0,
+              "Y": 54.0
+            },
+            "VisibleForFrame": false,
+            "Name": "a5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 528.7836,
+              "Y": 327.2988
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.661,
+              "Y": 0.7273
+            },
+            "PreSize": {
+              "X": 0.0487,
+              "Y": 0.0867
+            },
+            "LeftMargin": 509.2836,
+            "RightMargin": 251.7164,
+            "TopMargin": 103.2012,
+            "BottomMargin": 307.7988,
+            "Tag": 53,
+            "ActionTag": 883879880,
+            "Size": {
+              "X": 39.0,
+              "Y": 39.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 601.7194,
+              "Y": 325.4754
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7521,
+              "Y": 0.7233
+            },
+            "PreSize": {
+              "X": 0.0487,
+              "Y": 0.0867
+            },
+            "LeftMargin": 582.2194,
+            "RightMargin": 178.7806,
+            "TopMargin": 105.0246,
+            "BottomMargin": 305.9754,
+            "Tag": 54,
+            "ActionTag": 1451393792,
+            "Size": {
+              "X": 39.0,
+              "Y": 39.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 671.464,
+              "Y": 322.7404
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8393,
+              "Y": 0.7172
+            },
+            "PreSize": {
+              "X": 0.04,
+              "Y": 0.0711
+            },
+            "LeftMargin": 655.464,
+            "RightMargin": 112.536,
+            "TopMargin": 111.2596,
+            "BottomMargin": 306.7404,
+            "Tag": 55,
+            "ActionTag": 279541505,
+            "Size": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 573.0009,
+              "Y": 261.6569
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7163,
+              "Y": 0.5815
+            },
+            "PreSize": {
+              "X": 0.09,
+              "Y": 0.0822
+            },
+            "LeftMargin": 537.0009,
+            "RightMargin": 190.9991,
+            "TopMargin": 169.8431,
+            "BottomMargin": 243.1569,
+            "Tag": 56,
+            "ActionTag": -1101793042,
+            "Size": {
+              "X": 72.0,
+              "Y": 37.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 673.287,
+              "Y": 225.1889
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8416,
+              "Y": 0.5004
+            },
+            "PreSize": {
+              "X": 0.0675,
+              "Y": 0.12
+            },
+            "LeftMargin": 646.287,
+            "RightMargin": 99.713,
+            "TopMargin": 197.8111,
+            "BottomMargin": 198.1889,
+            "Tag": 57,
+            "ActionTag": -1547753187,
+            "Size": {
+              "X": 54.0,
+              "Y": 54.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 538.3564,
+              "Y": 191.4562
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6729,
+              "Y": 0.4255
+            },
+            "PreSize": {
+              "X": 0.1587,
+              "Y": 0.1444
+            },
+            "LeftMargin": 474.8564,
+            "RightMargin": 198.1436,
+            "TopMargin": 226.0438,
+            "BottomMargin": 158.9562,
+            "Tag": 58,
+            "ActionTag": -835124166,
+            "Size": {
+              "X": 127.0,
+              "Y": 65.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c7.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 671.464,
+              "Y": 135.6187
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8393,
+              "Y": 0.3014
+            },
+            "PreSize": {
+              "X": 0.0525,
+              "Y": 0.18
+            },
+            "LeftMargin": 650.464,
+            "RightMargin": 107.536,
+            "TopMargin": 273.8813,
+            "BottomMargin": 95.1187,
+            "Tag": 59,
+            "ActionTag": 967547983,
+            "Size": {
+              "X": 42.0,
+              "Y": 81.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Sp_img/c8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 545.65,
+              "Y": 113.7381
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6821,
+              "Y": 0.2528
+            },
+            "PreSize": {
+              "X": 0.0475,
+              "Y": 0.0844
+            },
+            "LeftMargin": 526.65,
+            "RightMargin": 235.35,
+            "TopMargin": 317.2619,
+            "BottomMargin": 94.7381,
+            "Tag": 60,
+            "ActionTag": -1713810769,
+            "Size": {
+              "X": 38.0,
+              "Y": 38.0
+            },
+            "VisibleForFrame": false,
+            "Name": "t8",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 450.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Sp_img/c1.png",
+        "Sp_img/c2.png",
+        "Sp_img/c3.png",
+        "Sp_img/c4.png",
+        "Sp_img/c5.png",
+        "Sp_img/c6.png",
+        "Sp_img/c7.png",
+        "Sp_img/c8.png",
+        "Sp_img/cc.png",
+        "Sp_img/xingsepinpintie_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

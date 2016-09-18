@@ -1,0 +1,205 @@
+{
+	"items": {
+
+	  "item0": {
+		"question": {
+		  "t1": "res.level0_json"
+		},
+		"imgs":[
+		  ["res.a1_png","GC.SPTYPE.smallf_labellate",1],
+		  ["res.a2_png","GC.SPTYPE.circle",10],
+		  ["res.a3_png","GC.SPTYPE.big_labellate",1],
+		  ["res.a4_png","GC.SPTYPE.smallf_hemicycle",0],
+		  ["res.a5_png","GC.SPTYPE.big_hemicycle",2],
+		  ["res.a6_png","GC.SPTYPE.smallf_fan",1],
+		  ["res.a7_png","GC.SPTYPE.smallf_fan",0]
+		],
+		"nums": "7",
+		"reqd":[
+		  ["GC.SPTYPE.smallf_labellate",0],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.big_labellate",1],
+		  ["GC.SPTYPE.smallf_hemicycle",3],
+		  ["GC.SPTYPE.big_hemicycle",1],
+		  ["GC.SPTYPE.smallf_fan",1],
+		  ["GC.SPTYPE.smallf_fan",0]
+
+		]
+	  },
+
+	  "item1": {
+		"question": {
+		  "t1": "res.level1_json"
+		},
+		"imgs":[
+		  ["res.b1_png","GC.SPTYPE.keystone",3],
+		  ["res.b2_png","GC.SPTYPE.keystone",1],
+		  ["res.b3_png","GC.SPTYPE.square",10],
+		  ["res.b4_png","GC.SPTYPE.keystone",0],
+		  ["res.b5_png","GC.SPTYPE.keystone",3],
+		  ["res.b6_png","GC.SPTYPE.square",10],
+		  ["res.b7_png","GC.SPTYPE.keystone",1],
+		  ["res.b8_png","GC.SPTYPE.keystone",2]
+		],
+		"nums": "8",
+		"reqd":[
+		  ["GC.SPTYPE.keystone",3],
+		  ["GC.SPTYPE.keystone",1],
+		  ["GC.SPTYPE.square",10],
+		  ["GC.SPTYPE.keystone",1],
+		  ["GC.SPTYPE.keystone",3],
+		  ["GC.SPTYPE.square",10],
+		  ["GC.SPTYPE.keystone",1],
+		  ["GC.SPTYPE.keystone",3]
+		]
+	  },
+
+	  "item2": {
+		"question": {
+		  "t1": "res.level2_json"
+		},
+		"imgs":[
+		  ["res.c1_png","GC.SPTYPE.smallf_fan",1],
+		  ["res.c2_png","GC.SPTYPE.smallf_labellate",3],
+		  ["res.c3_png","GC.SPTYPE.circle",10],
+		  ["res.c4_png","GC.SPTYPE.smallf_hemicycle",3],
+		  ["res.c5_png","GC.SPTYPE.big_labellate",1],
+		  ["res.c6_png","GC.SPTYPE.big_hemicycle",3],
+		  ["res.c7_png","GC.SPTYPE.zhong_hemicycle",0],
+		  ["res.c8_png","GC.SPTYPE.smallf_fan",0]
+		],
+		"nums": "8",
+		"reqd":[
+		  ["GC.SPTYPE.smallf_fan",1],
+		  ["GC.SPTYPE.smallf_labellate",3],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.smallf_hemicycle",1],
+		  ["GC.SPTYPE.big_labellate",0],
+		  ["GC.SPTYPE.big_hemicycle",2],
+		  ["GC.SPTYPE.zhong_hemicycle",0],
+		  ["GC.SPTYPE.smallf_fan",0]
+		]
+	  },
+
+	  "item3": {
+		"question": {
+		  "t1": "res.level3_json"
+		},
+		"imgs":[
+		  ["res.d1_png","GC.SPTYPE.smallf_hemicycle",3],
+		  ["res.d2_png","GC.SPTYPE.circle",10],
+		  ["res.d3_png","GC.SPTYPE.circle",10],
+		  ["res.d4_png","GC.SPTYPE.triangle",3],
+		  ["res.d5_png","GC.SPTYPE.smallf_fan",3],
+		  ["res.d6_png","GC.SPTYPE.big_fan",0],
+		  ["res.d7_png","GC.SPTYPE.big_fan",3],
+		  ["res.d8_png","GC.SPTYPE.smallf_fan",1]
+		],
+		"nums": "8",
+		"reqd":[
+		  ["GC.SPTYPE.smallf_hemicycle",3],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.triangle",1],
+		  ["GC.SPTYPE.smallf_fan",0],
+		  ["GC.SPTYPE.big_fan",3],
+		  ["GC.SPTYPE.big_fan",2],
+		  ["GC.SPTYPE.smallf_fan",1]
+		]
+	  },
+
+	  "item4": {
+		"question": {
+		  "t1": "res.level4_json"
+		},
+		"imgs":[
+		  ["res.e1_png","GC.SPTYPE.big_hemicycle",3],
+		  ["res.e2_png","GC.SPTYPE.circle",10],
+		  ["res.e3_png","GC.SPTYPE.circle",10],
+		  ["res.e4_png","GC.SPTYPE.smallf_hemicycle",3],
+		  ["res.e5_png","GC.SPTYPE.circle",10],
+		  ["res.e6_png","GC.SPTYPE.circle",10],
+		  ["res.e7_png","GC.SPTYPE.zhong_hemicycle",0],
+		  ["res.e8_png","GC.SPTYPE.zhong_hemicycle",2]
+		],
+		"nums": "8",
+		"reqd":[
+		  ["GC.SPTYPE.big_hemicycle",3],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.smallf_hemicycle",1],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.circle",10],
+		  ["GC.SPTYPE.zhong_hemicycle",1],
+		  ["GC.SPTYPE.zhong_hemicycle",1]
+		]
+	  },
+
+	  "item5": {
+		"question": {
+		  "t1": "res.level5_json"
+		},
+		"imgs":[
+		  ["res.f1_png","GC.SPTYPE.square",10],
+		  ["res.f2_png","GC.SPTYPE.rectangle",0],
+		  ["res.f3_png","GC.SPTYPE.smallf_hemicycle",2],
+		  ["res.f4_png","GC.SPTYPE.big_hemicycle",1]
+		],
+		"nums": "4",
+		"reqd":[
+		  ["GC.SPTYPE.square",10],
+		  ["GC.SPTYPE.rectangle",0],
+		  ["GC.SPTYPE.smallf_hemicycle",3],
+		  ["GC.SPTYPE.big_hemicycle",1]
+
+		]
+	  },
+
+	  "item6": {
+		"question": {
+		  "t1": "res.level6_json"
+		},
+		"imgs":[
+		  ["res.g1_png","GC.SPTYPE.big_rectangle",0],
+		  ["res.g2_png","GC.SPTYPE.keystone",1],
+		  ["res.g3_png","GC.SPTYPE.square",10],
+		  ["res.g4_png","GC.SPTYPE.smallf_hemicycle",0],
+		  ["res.g5_png","GC.SPTYPE.keystone",0],
+		  ["res.g6_png","GC.SPTYPE.rectangle",1]
+		],
+		"nums": "6",
+		"reqd":[
+		  ["GC.SPTYPE.big_rectangle",0],
+		  ["GC.SPTYPE.keystone",2],
+		  ["GC.SPTYPE.square",10],
+		  ["GC.SPTYPE.smallf_hemicycle",3],
+		  ["GC.SPTYPE.keystone",3],
+		  ["GC.SPTYPE.rectangle",0]
+		]
+	  },
+
+	  "item7": {
+		"question": {
+		  "t1": "res.level7_json"
+		},
+		"imgs":[
+		  ["res.h1_png","GC.SPTYPE.square",10],
+		  ["res.h2_png","GC.SPTYPE.rectangle",0],
+		  ["res.h3_png","GC.SPTYPE.keystone",1],
+		  ["res.h4_png","GC.SPTYPE.keystone",3],
+		  ["res.h5_png","GC.SPTYPE.smallf_hemicycle",3],
+		  ["res.h6_png","GC.SPTYPE.rectangle",1]
+		],
+		"nums": "6",
+		"reqd":[
+		  ["GC.SPTYPE.square",10],
+		  ["GC.SPTYPE.rectangle",0],
+		  ["GC.SPTYPE.keystone",1],
+		  ["GC.SPTYPE.keystone",0],
+		  ["GC.SPTYPE.smallf_hemicycle",3],
+		  ["GC.SPTYPE.rectangle",1]
+		]
+	  }
+
+	}
+}

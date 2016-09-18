@@ -1,0 +1,29 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","cocostudio"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/GameScene.js",
+        "src/MSGMgr.js",
+        "src/GameConfig.js",
+        "src/HudLayer.js",
+        "src/PauseLayer.js",
+        "src/QuitLayer.js",
+        "src/Question.js",
+        "src/SummaryLayer.js",
+        "src/GCUserData.js",
+        "src/ResultLayer.js",
+        "src/baseSprite.js",
+        "src/HelpLayer.js"
+
+    ]
+}
